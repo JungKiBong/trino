@@ -6,3 +6,4 @@
 *.z04 filter=lfs diff=lfs merge=lfs -text
 *.z045 filter=lfs diff=lfs merge=lfs -text
 *.z05 filter=lfs diff=lfs merge=lfs -text
+server.z01 filter=lfs diff=lfs merge=lfs -text
