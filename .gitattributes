@@ -3,3 +3,7 @@ kt.zip filter=lfs diff=lfs merge=lfs -text
 *.z01 filter=lfs diff=lfs merge=lfs -text
 *.z02 filter=lfs diff=lfs merge=lfs -text
 tb.zip filter=lfs diff=lfs merge=lfs -text
+server.zip filter=lfs diff=lfs merge=lfs -text
+server.z01 filter=lfs diff=lfs merge=lfs -text
+server.z02 filter=lfs diff=lfs merge=lfs -text
+*.z03 filter=lfs diff=lfs merge=lfs -text
