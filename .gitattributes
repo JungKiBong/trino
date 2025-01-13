@@ -8,3 +8,4 @@ server.z01 filter=lfs diff=lfs merge=lfs -text
 server.z02 filter=lfs diff=lfs merge=lfs -text
 *.z03 filter=lfs diff=lfs merge=lfs -text
 cvat.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
